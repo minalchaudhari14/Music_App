@@ -28,13 +28,13 @@ let track_list = [
     path: "music/Gilehriyaan.mp3"
   },
    {
-    name: "Inkem Inkem Kaavaale",
+    name: "Inkem Inkem",
     artist: "Sid Sriram",
     image: "img/img4.jpg",
     path: "music/Inkem Inkem Inkem Kaavaale.mp3",
   },
  {
-    name: "Makhna - Drive",
+    name: "Makhna-Drive",
     artist: "Yasser Desai, Asees Kaur",
     image: "img/img5.jpg",
     path: "music/Makhna-b-Drive.mp3",
