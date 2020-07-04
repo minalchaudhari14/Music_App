@@ -28,14 +28,14 @@ let track_list = [
     path: "music/Gilehriyaan.mp3"
   },
    {
-    name: "Inkem Inkem Inkem Kaavaale",
+    name: "Inkem Inkem Kaavaale",
     artist: "Sid Sriram",
     image: "img/img4.jpg",
     path: "music/Inkem Inkem Inkem Kaavaale.mp3",
   },
  {
-    name: "Makhna - Drive",
-    artist: "Yasser Desai, Asees Kaur, Tanishk Bagchi",
+    name: "Makhna-Drive",
+    artist: "Yasser Desai,Asees Kaur",
     image: "img/img5.jpg",
     path: "music/Makhna-b-Drive.mp3",
   },
@@ -52,14 +52,14 @@ let track_list = [
     path: "music/Vachindamma.mp3",
   },
   {
-    name: "Namo Namo - Kedarnath",
+    name: "Namo Namo",
     artist: "Sumedha Karmahe",
     image: "img/img7.jpg",
     path: "music/Namo-Namo-b-Kedarnath.mp3",
   },
   {
-    name: "Qaafirana- Kedarnath",
-    artist: " Nikhita Gandhi, Arijit Singh",
+    name: "Qaafirana-Kedarnath",
+    artist: " Nikhita Gandhi,Arijit Singh",
     image: "img/img8.jpg",
     path: "music/Qaafirana-b-Kedarnath.mp3",
   },
@@ -77,7 +77,7 @@ let track_list = [
   },
   {
     name: "Papa Mere Papa ",
-    artist: "Sonu Nigam, Shreya Ghoshal, Baby Aparna",
+    artist: "Sonu Nigam, Shreya Ghoshal",
     image: "img/img3.jpg",
     path: "music/Papa Mere Papa.mp3",
   },
