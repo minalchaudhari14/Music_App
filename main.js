@@ -28,7 +28,7 @@ let track_list = [
     path: "music/Gilehriyaan.mp3"
   },
    {
-    name: "Inkem Inkem",
+    name: "Inkem Kaavaale",
     artist: "Sid Sriram",
     image: "img/img4.jpg",
     path: "music/Inkem Inkem Inkem Kaavaale.mp3",
